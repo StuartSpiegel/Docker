@@ -1,0 +1,1 @@
+docker run -it --name redhat -d redhat/ubi8:latest

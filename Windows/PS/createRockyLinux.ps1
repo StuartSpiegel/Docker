@@ -1,0 +1,1 @@
+docker run -it --name RockyLinux -d rockylinux/rockylinux
