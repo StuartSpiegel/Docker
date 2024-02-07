@@ -1,4 +1,4 @@
 #!/bin/bash
-docker build -t kali-aircrack .
+docker build .
 
-docker run --privileged -it kali-aircrack
+sudo docker run --privileged -it 278ae2c20670
